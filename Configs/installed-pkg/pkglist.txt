@@ -13,8 +13,9 @@ bluez-utils
 brightnessctl
 btop
 cava
+cmatrix
 cliphist
-cmus
+cbonsai
 eza
 fastfetch
 fd
@@ -27,13 +28,18 @@ gparted
 grim
 hyprlock
 imagemagick
+jq
+kew
+socat
+udisks2
+gvfs
+tumbler
 kdeconnect
 kitty
 libnotify
-librewolf-bin
-helium-browser-bin
 localsend-bin
 mako
+mousepad
 mpv
 ncdu
 neovim
@@ -47,6 +53,8 @@ polkit-gnome
 plymouth
 foot
 pulsemixer
+pipes.sh
+peaclock
 quickshell
 rofi
 seatd
@@ -60,6 +68,7 @@ timeshift
 thunar
 tree
 unzip
+vinz
 waybar
 wayland
 wayland-protocols
@@ -74,3 +83,4 @@ xwayland-satellite
 yazi
 yt-dlp
 zoxide
+zen-browser-bin
