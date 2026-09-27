@@ -63,6 +63,7 @@ stow
 awww
 swayimg
 qrencode
+qrca
 resvg
 timeshift
 thunar
